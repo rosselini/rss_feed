@@ -1,0 +1,13 @@
+.BoxRssFeeds {
+    width: 600px;
+}
+.BoxRssFeed {
+    border-bottom: solid #ddd 1px;
+    padding: 10px;
+}
+.BoxRssFeed:last-child {
+    border-bottom: none;
+}
+.RssFeedContent {
+		
+}
